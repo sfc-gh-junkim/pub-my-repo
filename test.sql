@@ -1,1 +1,1 @@
-show stages;
+select current_role;
