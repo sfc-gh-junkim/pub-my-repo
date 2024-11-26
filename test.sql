@@ -1,3 +1,3 @@
 EXECUTE IMMEDIATE 
 FROM 
-@snowflake_extensions/branches/main/test.sql;
+@snowflake_extensions/branches/main/run.sql;;
