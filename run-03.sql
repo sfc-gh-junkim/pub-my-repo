@@ -1,1 +1,1 @@
-select current_role();
+use role PUBLIC;
