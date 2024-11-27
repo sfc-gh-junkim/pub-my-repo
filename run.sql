@@ -1,4 +1,4 @@
-select current_role();
+SELECT current_role();
 use role MYCO_DB_OWNER;
 select current_role();
 use role SECURITYADMIN;
