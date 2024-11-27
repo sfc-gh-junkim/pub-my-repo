@@ -1,1 +1,1 @@
-use role SECURITYADMIN;
+show databases; 
