@@ -1,1 +1,1 @@
-show users;
+show schemas;
