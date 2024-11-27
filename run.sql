@@ -1,2 +1,2 @@
-current_role();
+select current_role();
 
