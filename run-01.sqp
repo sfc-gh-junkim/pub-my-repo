@@ -1,2 +1,1 @@
 use role SECURITYADMIN;
-select current_role();
