@@ -1,1 +1,1 @@
-select current_role();
+show schemas;
