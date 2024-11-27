@@ -1,1 +1,1 @@
-use role PUBLIC;
+show schemas;
