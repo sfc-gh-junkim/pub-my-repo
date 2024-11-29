@@ -18,3 +18,8 @@ FROM
 ```BASH
 claer
 ```
+
+```BASH
+snowflake branch
+```
+
