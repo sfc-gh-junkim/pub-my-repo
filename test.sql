@@ -13,3 +13,8 @@ FROM
 EXECUTE IMMEDIATE 
 FROM 
 @snowflake_extensions/branches/main/run-03.sql;;
+
+
+```BASH
+claer
+```
