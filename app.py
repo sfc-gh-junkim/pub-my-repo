@@ -1,8 +1,7 @@
 import streamlit as st
 import openai
 
-# OpenAI API 키 설정
-openai.api_key = "sk-proj-N9MWbWohubq2hs1l2r3U6HBPkJ2jrHxovWZ3UgPTJgTyZm-1-NOVsVl23Xpie5QC2o1cZeuzEgT3BlbkFJLwh9bp-AW7nt2rghN369el-EixslaStm9AY4Ro3QQHfOb3vXgb3G5HyP3Y8ug2CvBkkA"
+
 
 # Streamlit 앱 UI
 st.title("ChatGPT with Streamlit :balloon:")
